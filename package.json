@@ -1,0 +1,14 @@
+{
+  "name": "text-viz",
+  "version": "1.0.0",
+  "description": "A single-page web app that displays images related to the text inside textfield ",
+  "main": "app.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "teriyakigod2",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
